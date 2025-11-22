@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashfordreyes
-- 👀 I’m interested in being a full-stack web developer.
-- 🌱 I’m currently learning JavaScript, Python, and Svelte
+- 👀 Why am I a comp-sci student when AI can already code?
+- 🌱 I'm currently learning TypeScript/React & Python!
 
 <!---
 ashfordreyes/ashfordreyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
