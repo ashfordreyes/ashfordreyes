@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashfordreyes
-- 👀 Why am I a comp-sci student when AI can already code?
 - 🌱 I'm currently learning TypeScript/React & Python!
+- 👀 Why am I a comp-sci student when AI can already code? Why did the chicken cross the road?
 
 <!---
 ashfordreyes/ashfordreyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
