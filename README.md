@@ -1,5 +1,5 @@
 About Me
-Started coding when I was 9, didn't understand it, came back when I was 17 in 2024 and the concepts clicked.
+19 yrs old, web development and machine learning are my favorite.
 
 Knowledge Areas
 Google Cloud - Serverless Hosting - ArcGIS
