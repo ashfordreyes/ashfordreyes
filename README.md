@@ -1,12 +1,15 @@
-About Me
+# About Me
+
 19 yrs old, web development and machine learning are my favorite.
 
-Knowledge Areas
-Google Cloud - Serverless Hosting - ArcGIS
-APIs - Vertical AI - Web Dev - Python - Machine Learning
-Computer Vision - Convolutional Neural Networks - Weather Prediction
+## Knowledge Areas
 
-Languages & Tools
-![](https://img.shields.io/badge/ReactJs-61DAFB&style=flat) ![](https://img.shields.io/badge/Claude-Code-D97757) ![](https://img.shields.io/badge/Python-3776AB)
+Google Cloud · Serverless Hosting · ArcGIS · APIs · Vertical AI · Web Dev · Python · Machine Learning · Computer Vision · Convolutional Neural Networks · Weather Prediction
 
-![](https://komarev.com/ghpvc/?username=ashfordreyes&color-green&style=flat)
+## Languages & Tools
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Profile views](https://komarev.com/ghpvc/?username=ashfordreyes&color=blue&style=flat)
